@@ -38,6 +38,8 @@ Now from: https://www.youtube.com/watch?v=OMPfEXIlTVE
 
 Sandy says don't use if statements
 
+Conditionals breed!!
+
 In other words, we inject the object to play the role of the thing that varies
 
 This allows us to get pluggable behavior! It enables dependency injection / is? dependency injection. Moreso it is composition + dependency injection

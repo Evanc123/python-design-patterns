@@ -74,9 +74,3 @@ arctic_station.add_observer(first_observer)
 arctic_station.add_observer(second_observer)
 
 arctic_station.randomly_change_temperature()
-
-
-"""
-Important thing here is that update() gets passed the subject,
-so that the observer can get the data it needs from the subject.
-"""
